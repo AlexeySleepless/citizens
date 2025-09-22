@@ -1,0 +1,9 @@
+.errorMessage{
+    margin: 0 !important;
+}
+.error{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px
+}

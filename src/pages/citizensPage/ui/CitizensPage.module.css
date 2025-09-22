@@ -1,0 +1,8 @@
+.dividerBlock{
+    flex-grow: 1;
+}
+
+.count{
+    margin: 0 10px !important;
+    align-self: center;
+}

@@ -1,0 +1,1 @@
+export { useOpenMainPage } from "./lib/useOpenMainPage";

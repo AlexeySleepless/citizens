@@ -1,0 +1,1 @@
+export { CitizenProfilePage } from "./ui/CitizenProfilePage"
